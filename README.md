@@ -7,6 +7,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <a href="http://maxoulolZero.github.io/test-archi.svg" target="_blank">self-editing.svg</a> Cliquer sur le lien pour editer
 ### Markdown
 
+![Self-editing Diagram html](http://maxoulolZero.github.io/diagram.html)
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
