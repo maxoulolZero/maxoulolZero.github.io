@@ -28,6 +28,12 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+## Self-editing SVG file
+
+![](http://maxoulolZero.github.io/test-archi.svg)
+
+<a href="http://maxoulolZero.github.io/test-archi.svg" target="_blank">test-archi.svg</a> is an SVG file with embedded PNG data 
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
