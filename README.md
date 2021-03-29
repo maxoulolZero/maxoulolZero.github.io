@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bienvenu sur la page GitHub du projet UBSI
 
 You can use the [editor on GitHub](https://github.com/maxoulolZero/maxoulolZero.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
