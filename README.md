@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/maxoulolZero/maxoulolZero.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 ![Self-editing Diagram](http://maxoulolZero.github.io/test2.svg)
-<a href="http://maxoulolZero.github.io/test-archi.svg" target="_blank">self-editing.svg</a> Cliquer sur le lien pour editer
+<a href="http://maxoulolZero.github.io/test2.svg" target="_blank">self-editing.svg</a> Cliquer sur le lien pour editer
 ### Markdown
 
 ![Self-editing Diagram html](http://maxoulolZero.github.io/diagram.html)
